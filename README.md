@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kipkorir Evans
-- 👀 I’m interested in Java
+- 👀 I’m interested in being a software developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on various Java programs and systems
 - 📫 How to reach me email kipkorirevance999@gmail.com
