@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on various Java programs and systems
 - 📫 How to reach me email kipkorirevance999@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: MAN
 - ⚡ Fun fact: I'm funny
 
 <!---
