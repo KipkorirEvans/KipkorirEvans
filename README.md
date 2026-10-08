@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kipkorir Evans
+- 👋 Hi, I’m Evans Bett
 - 👀 I’m interested in being a software developer
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on various Java programs and systems
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on various python programs and systems
 - 📫 How to reach me email kipkorirevance999@gmail.com
 - 😄 Pronouns: MAN
 - ⚡ Fun fact: I'm funny
