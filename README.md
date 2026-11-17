@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Evans Bett
-- 👀 I’m interested in being a software developer
+- 👀 I’m a software engineer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various python programs and systems
 - 📫 How to reach me email kipkorirevance999@gmail.com
-- 😄 Pronouns: MAN
 - ⚡ Fun fact: I'm funny
 
 <!---
